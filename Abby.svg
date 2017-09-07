@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Themeo.svg"
+   sodipodi:docname="Abby.svg"
    inkscape:export-filename="C:\Projects-Personal\Art\Themeo.png"
    inkscape:export-xdpi="66.139824"
    inkscape:export-ydpi="66.139824">
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="429.98604"
-     inkscape:cy="728.18781"
+     inkscape:cx="359.98604"
+     inkscape:cy="697.34782"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -341,15 +341,15 @@
        id="rect3881"
        width="56.568542"
        height="7.0710678"
-       x="606"
+       x="612"
        y="528.59808"
        rx="13.06633"
        ry="7.0710678" />
     <rect
        ry="7.0710678"
        rx="13.06633"
-       y="740.3576"
-       x="310.54681"
+       y="742.99689"
+       x="315.93515"
        height="7.0710678"
        width="56.568542"
        id="rect3883"
@@ -361,8 +361,8 @@
        id="rect3885"
        width="56.568542"
        height="7.0710678"
-       x="777.80353"
-       y="-213.62492"
+       x="783.19196"
+       y="-210.98573"
        rx="13.06633"
        ry="7.0710678" />
     <path
